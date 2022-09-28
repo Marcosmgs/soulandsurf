@@ -11,6 +11,15 @@ We wanted to choose colours that reflected the environment, so we have chosen a 
 ![PALET COLOURS IMGs]
 
 ## Typography
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@500&display=swap');
+</style>
+CSS rules to specify families
+
+font-family: 'Lato', sans-serif;
+font-family: 'Oswald', sans-serif;
+
 Google Fonts was used to import the chosen fonts for use in the site.
 
 We have chosen to use the oxygen font. This is a sans serif font which is great for accessibility and dyslexic users. We also felt the name was very fitting for use on our site for Earth Day 😊.
