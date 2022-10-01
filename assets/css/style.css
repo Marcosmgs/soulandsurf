@@ -9,5 +9,19 @@
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
+    color: gray;
 }
 
+/* headings and logo */
+
+h1, h2 {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: black;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
+}
