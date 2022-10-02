@@ -16,7 +16,8 @@ body {
 
 /* headings nav menu and logo */
 
-h1, h2 {
+h1,
+h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -28,7 +29,8 @@ h1, h2 {
     font-size: 300%;
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
 }
 
@@ -46,7 +48,7 @@ h1, h2 {
 
 #menu a {
     text-decoration: none;
-    color: inherit;   
+    color: inherit;
 }
 
 #menu a:hover {
@@ -63,27 +65,59 @@ h1, h2 {
     height: 600px;
     width: 100%;
     overflow: hidden;
+
+    position: relative;
 }
 
 #surf-image {
     height: 600px;
     width: 100%;
-    background: url('../images/surf-image.jpg') no-repeat center center;
+    background: url('../images/surf-image.jpg') no-repeat center bottom;
 
     /* animation zoom effect on loading page */
     animation-name: surf-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
+
+}
+
+/* cover text for surf image */
+
+#cover-text, #cover-text h2 {
+    color: #fff;
+    text-align: left;
+}
+
+#cover-text {
+    font-size: 110%;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 275px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(60, 60, 60, 0.6);
+
+    bottom: 30px;
     
+
+    position: absolute;
+
+
 }
 
 /* creates the level of zoom for the surf image */
 
 @keyframes surf-zoom {
-    from{
+    from {
         transform: scale(1);
     }
-    to{
+
+    to {
         transform: scale(1.1);
     }
 }
