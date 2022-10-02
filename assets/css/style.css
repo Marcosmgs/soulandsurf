@@ -9,15 +9,13 @@
 
 body {
     font-family: Lato, sans-serif;
-    font-weight: 300;
     color: #343434;
     background-color: #C1D4D9;
 }
 
 /* headings nav menu and logo */
 
-h1,
-h2 {
+h1, h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -29,8 +27,7 @@ h2 {
     font-size: 300%;
 }
 
-#menu,
-#logo {
+#menu, #logo {
     line-height: 75px;
 }
 
@@ -81,6 +78,19 @@ h2 {
 
 }
 
+/* creates the level of zoom for the surf image */
+
+@keyframes surf-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
+
+
 /* cover text for surf image */
 
 #cover-text, #cover-text h2 {
@@ -103,21 +113,30 @@ h2 {
     background-color: rgba(60, 60, 60, 0.6);
 
     bottom: 30px;
-    
 
     position: absolute;
-
-
 }
 
-/* creates the level of zoom for the surf image */
+/* About Us */
 
-@keyframes surf-zoom {
-    from {
-        transform: scale(1);
-    }
-
-    to {
-        transform: scale(1.1);
-    }
+#about-us, #about-us h2 {
+    font-size: 180%;
 }
+
+#about-us {
+    color: #343434;
+    text-align: center;
+    font-size: 120%;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+
+    width: 800px;
+    height: 200px;
+
+    margin: 0 auto;
+
+    margin-top: 30px;
+}
+
+
+
