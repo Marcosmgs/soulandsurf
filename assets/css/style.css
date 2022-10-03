@@ -152,13 +152,23 @@ h1, h2 {
 
 /* Why Ride with us */
 
+#why-heading{
+    text-align: center;
+    font-size: 200%;
+}
 
-
-
-/* Meet Up Times and Locations */
-
-#time-location {
-    height: 300px;
+#reasons-panels {
+    height: 400px;
     width: 100%;
-    background: url('../images/pexels-jess-loiterton-4321815.jpg') center center / cover no-repeat fixed;
+}
+
+#reasons-panels div {
+    width: 25%;
+    height: 300px;
+    float: left;
+    text-align: center;
+    
+    color: #fafafa;
+    background-color: rgba(2, 72, 115, 0.6);
+
 }
