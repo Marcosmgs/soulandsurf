@@ -13,13 +13,12 @@ body {
     background-color: #C1D4D9;
 }
 
-/*
+
 hr {
-    border-top: 1px solid #343434;
+    border-top: 2px solid black;
     width: 100%;
     margin: 5px 0;
 }
-*/
 
 /* headings nav menu and logo */
 
@@ -130,18 +129,18 @@ h1, h2 {
 
 #about-us, #about-us h2 {
     font-size: 180%;
-    padding-top: 1%;
+    padding: 3px 3px 3px 3px;
 }
 
 #about-us {
     color: #343434;
     text-align: center;
-    font-size: 100%;
+    font-size: 110%;
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
 
     width: 600px;
-    height: 175px;
+    height: 200px;
 
     background-color: #F2F2F2;
 
@@ -154,21 +153,29 @@ h1, h2 {
 
 #why-heading{
     text-align: center;
-    font-size: 200%;
-}
+    font-size: 300%;
+    width: 20%;
+    height: 200px;
 
-#reasons-panels {
-    height: 400px;
-    width: 100%;
+    margin: 0 auto;
+    margin-top: 30px;
 }
 
 #reasons-panels div {
     width: 25%;
-    height: 300px;
+    height: 200px;
     float: left;
     text-align: center;
-    
     color: #fafafa;
-    background-color: rgba(2, 72, 115, 0.6);
 
+    background-color: rgba(2, 72, 115, 0.6);
+    padding: 30px 0 0 10px;
+    border: 2px solid white;
+    box-sizing: border-box;
+    
+    margin-top: 60px;
 }
+
+/* meet up times and locations */
+
+
