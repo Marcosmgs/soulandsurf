@@ -145,7 +145,6 @@ h1, h2 {
     background-color: #F2F2F2;
 
     margin: 0 auto;
-
     margin-top: 30px;
 }
 
@@ -171,7 +170,7 @@ h1, h2 {
 
     background-color: rgba(2, 72, 115, 0.6);
     padding: 30px 0 0 10px;
-    border: 2px solid white;
+    border-left: 2px solid white;
     box-sizing: border-box;
     
     margin-top: 60px;
@@ -188,5 +187,21 @@ h1, h2 {
     width: 100%;
     overflow: hidden;
     background-attachment: fixed;
+}
 
+#meetup-panel h2 {
+    color: #fafafa;
+}
+
+#meetup-panel div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+
+    border: 2px solid black;
+    box-sizing: border-box;
 }
