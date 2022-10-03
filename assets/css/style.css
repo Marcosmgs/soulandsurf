@@ -248,8 +248,27 @@ footer {
 
     }
 
+    #reasons-panels > div{
+        width: 100%;
+        clear: both;
+        padding: 2px;
+        height: 100px;
+        margin: 0 auto;
+    }
+
     hr {
         display: none;
     }
 
+}
+
+/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 1000px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 15px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
 }
