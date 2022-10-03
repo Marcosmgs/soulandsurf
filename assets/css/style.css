@@ -235,7 +235,7 @@ footer {
 @media screen and (max-width: 1200px) {
     #reasons-why {
         width: 65%;
-        height: 900px;
+        height: 1200px;
         margin: 0 auto;
     }
 
@@ -243,16 +243,17 @@ footer {
         width: 100%;
         clear: both;
         padding: 2px;
-        height: 100px;
+        height: 120px;
         margin: 0 auto;
+        margin-bottom: 25px;
 
     }
 
-    #reasons-panels > div{
+    #meetup-panel > div{
         width: 100%;
         clear: both;
-        padding: 2px;
-        height: 100px;
+        padding: 0;
+        height: 150px;
         margin: 0 auto;
     }
 
@@ -263,7 +264,7 @@ footer {
 }
 
 /* For medium screen sizes from 950px wide and down */
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 950px) {
     #menu {
         clear: left;
         float: left;
