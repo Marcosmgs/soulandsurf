@@ -159,6 +159,7 @@ h1, h2 {
 
     margin: 0 auto;
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 #reasons-panels div {
@@ -174,8 +175,18 @@ h1, h2 {
     box-sizing: border-box;
     
     margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 /* meet up times and locations */
 
+#meetup-panel {
+    background-image: url('../images/pexels-jess-loiterton-4321815.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+    background-attachment: fixed;
 
+}
