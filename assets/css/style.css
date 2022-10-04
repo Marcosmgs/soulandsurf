@@ -234,6 +234,17 @@ footer {
     color: #343434;
 }
 
+/* Gallery 
+#photos {
+    font-size: 160%;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+*/
+
+
+
 /* Media queries */
 /* For larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
