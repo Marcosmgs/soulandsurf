@@ -304,4 +304,14 @@ footer {
     #reasons-panels > div {
         height: 100%;
     }
+
+    #photos {
+        column-count: 3;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #photos {
+        column-count: 2;
+    }
 }
