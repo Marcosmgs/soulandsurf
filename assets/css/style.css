@@ -35,7 +35,7 @@ h1, h2 {
     margin-left: 20px;
 }
 
-#menu, #logo {
+#logo, #menu  {
     line-height: 75px;
 }
 
@@ -57,11 +57,11 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border-bottom: 2px solid #024873;
+    border-bottom: 1px solid #024873;
 }
 
 .active {
-    border-bottom: 2px solid #024873;
+    border-bottom: 1px solid #024873;
 }
 
 /* surf image */
