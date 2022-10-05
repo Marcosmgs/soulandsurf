@@ -33,7 +33,28 @@
         </nav>
     </header>
 
-    <section>
+    <section class="signup-section">
+
+        <form action="https://formdump.codeinstitute.net/" method="POST" class="form-panel">
+
+            <h2>Let's get you surf up!</h2>
+
+            <label for="fname">First Name</label>
+            <input id="fname" type="text" name="first_name" required class="text-field">
+            <label for="lname">Last Name</label>
+            <input id="lname" type="text" name="last_name" required class="text-field">
+            <label for="email">Email Address</label>
+            <input id="email" type="email" name="email_address" required class="text-field">
+            
+            <label for="pilates">Pilates</label>
+            <input id="pilates" type="radio" name="activity_favorite" value="Pilates" required>
+            <label for="yoga">Surf Yoga</label>
+            <input id="yoga" type="radio" name="activity_favorite" value="Surf Yoga">
+            <label for="slackline">Slackline</label>
+            <input id="slackline" type="radio" name="activity_favorite" value="Slackline">
+            
+            <input type="submit" value="Let's Ride!" class="signup-buttom">
+        </form>
 
     </section>
 
