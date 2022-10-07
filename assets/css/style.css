@@ -389,12 +389,27 @@ footer {
 @media screen and (max-width: 365px) {
     #menu {
         font-size: 70%;
-        margin-left: 20px;
+        margin-left: 45px;
     }
     #logo {
         font-size: 250%;
+        margin-left: 45px;
     }
     .fa, .fas {
         font-size: 90%;
     }
 }
+
+@media screen and (max-width: 335px) {
+    #menu {
+        font-size: 55%;
+    }
+    #logo {
+        margin-left: 30px;
+    }
+    .fa, .fas {
+        font-size: 80%;
+    }
+
+}
+
