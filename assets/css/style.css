@@ -355,7 +355,7 @@ footer {
         margin-left: 15px;
         margin-bottom: 20px;
         line-height: 25px;
-        font-size: 95%;
+        font-size: 100%;
     }
     #about-us {
         height: 100%;
@@ -378,4 +378,20 @@ footer {
         margin: 150px 10% 0px 10%;
     }
     
+}
+
+@media screen and (max-width: 370px) {
+    #menu {
+        font-size: 90%;
+    }
+}
+
+@media screen and (max-width: 365px) {
+    #menu {
+        font-size: 70%;
+        margin-left: 20px;
+    }
+    #logo {
+        font-size: 250%;
+    }
 }
