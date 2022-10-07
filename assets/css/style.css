@@ -388,7 +388,7 @@ footer {
 
 @media screen and (max-width: 365px) {
     #menu {
-        font-size: 70%;
+        font-size: 65%;
         margin-left: 45px;
     }
     #logo {
@@ -402,7 +402,8 @@ footer {
 
 @media screen and (max-width: 335px) {
     #menu {
-        font-size: 55%;
+        font-size: 50%;
+        margin-left: 40px;
     }
     #logo {
         margin-left: 30px;
