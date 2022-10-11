@@ -54,39 +54,39 @@ In this section, you should go over the different parts of your project, and des
 Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![NAVIGATION BAR SCREENSHOOT]
+![NAVIGATION BAR SCREENSHOOT](documentation/menu-feature.png)
 
-#### The landing page image
+#### The landing Surfer page image
 
 The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
 This section introduces the user to Love Running with an eye catching animation to grab their attention.
 
-![LANDING PAGE SCREENSHOOT]
+![SURFER PAGE SCREENSHOOT](documentation/surfer-feature.png)
 
 #### About Us Section
 
-![ABOUT US SCREENSHOOT]
+![ABOUT US SCREENSHOOT](documentation/aboutus-feature.png)
 
-#### Club Ethos Section
+#### Reasons to Ride with Us Section
 
 The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
 This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
 
-![ETHOS SCREENSHOOT]
+![REASONS WHY SCREENSHOOT](documentation/reasonswhy-feature.png)
 
-#### Meetup Times section
+#### Meetup Times & Locations Section
 
 This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
 This section will be updated as these times change to keep the user up to date.
 
-![MEET UP TIMES SCREENSHOOT]
+![MEET UP TIMES SCREENSHOOT](documentation/meetup-feature.png)
 
 #### The Footer
 
 The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
 The footer is valuable to the user as it encourages them to keep connected via social media
 
-![FOOTER SCREENSHOOT]
+![FOOTER SCREENSHOOT](documentation/footer-feature.png)
 
 #### Gallery
 
