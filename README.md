@@ -26,6 +26,7 @@ font-family: 'Oswald', sans-serif;
 All imagery used within the site has been chosen from https://www.pexels.com taken by the photographers bellow:
 
 Photos by: 
+
            Nick Wehrli
            
            Kammeran Gonzalez-Keola
