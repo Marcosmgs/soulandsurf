@@ -12,25 +12,20 @@ Colours were choosen to reflected the beach environment and colour contrast, col
 
 ## Typography
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@500&display=swap');
-</style>
+Google Fonts was used to import the chosen fonts for use in the site.
 CSS rules to specify families
-
 font-family: 'Lato', sans-serif;
 font-family: 'Oswald', sans-serif;
 
-Google Fonts was used to import the chosen fonts for use in the site.
-
-We have chosen to use the oxygen font. This is a sans serif font which is great for accessibility and dyslexic users. We also felt the name was very fitting for use on our site for Earth Day 😊.
-
-![TYPOGRAPHY IMGs]
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@500&display=swap');
 
 ## Imagery
-All imagery used within the site has been chosen to showcase the beautiful nature of Earth.
 
-All charity images used belong to their respective charitites.
-
+All imagery used within the site has been chosen from https://www.pexels.com taken by the photographers bellow:
+Photos by: Nick Wehrli
+           Kammeran Gonzalez-Keola
+           Jess Loiterton
+           
 ## Wireframes
 Wireframes were created for mobile, tablet and desktop using Balsamiq.
 
