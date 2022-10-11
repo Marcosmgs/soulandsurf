@@ -6,9 +6,9 @@ Soul & Surf is a site that hopes to help in those days where the waves are small
 
 ## Design
 Colour Scheme
-We wanted to choose colours that reflected the environment, so we have chosen a variety of greens, blues and browns for our site.
+Colours were choosen to reflected the beach environment and colour contrast, colours chosen was a variety of greens, blues and greys for our site.
 
-![PALET COLOURS IMGs]
+![Palette Colours Img](documentation/color-palette.png)
 
 ## Typography
 
