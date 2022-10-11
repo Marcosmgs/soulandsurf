@@ -27,7 +27,9 @@ All imagery used within the site has been chosen from https://www.pexels.com tak
 
 Photos by: 
            Nick Wehrli
+           
            Kammeran Gonzalez-Keola
+           
            Jess Loiterton
            
 ## Wireframes
