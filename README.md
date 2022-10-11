@@ -17,6 +17,7 @@ Google Fonts was used to import the chosen fonts for use in the site.
 CSS rules to specify families
 
 font-family: 'Lato', sans-serif;
+
 font-family: 'Oswald', sans-serif;
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@500&display=swap');
