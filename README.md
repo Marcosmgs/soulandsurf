@@ -13,7 +13,9 @@ Colours were choosen to reflected the beach environment and colour contrast, col
 ## Typography
 
 Google Fonts was used to import the chosen fonts for use in the site.
+
 CSS rules to specify families
+
 font-family: 'Lato', sans-serif;
 font-family: 'Oswald', sans-serif;
 
@@ -22,6 +24,7 @@ font-family: 'Oswald', sans-serif;
 ## Imagery
 
 All imagery used within the site has been chosen from https://www.pexels.com taken by the photographers bellow:
+
 Photos by: Nick Wehrli
            Kammeran Gonzalez-Keola
            Jess Loiterton
