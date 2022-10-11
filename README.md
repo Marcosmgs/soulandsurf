@@ -1,8 +1,8 @@
-![S&S logo]
+# SOUL & SURF
 
-Soul & Surf is a site that hopes to help in those days where the waves are small, bring people together to meet up for surf-improvement exercices activitis on regular basis in Bundoran, Ireland. The site will be targeted towards surfers who are looking for a way to socialise with the local surf community and keep themselves fit for the big days. Soul & Surf will be useful for surfers to see exactly when and where they should be to join the surf club.
+Soul & Surf is a site that hopes to help in those days where the waves are small, bring people together to meet up for surf-improvement exercices activitis on regular basis in Bundoran, Ireland. The site will be targeted towards surfers who are looking for a way to socialise with the local surf community and keep themselves fit for the big days. Soul & Surf will be useful for surfers to see exactly when and where they should be to join the activitys.
 
-![S&S WEBSITE PHOTOS IN DIFFERENT DEVICES]
+![Reponsive Mockup Diferent Screens Sizes](documentation/ami-responsive.png)
 
 ## Design
 Colour Scheme
