@@ -7,7 +7,7 @@ Soul & Surf is a website that hopes to help in those days where the waves are sm
 ## Design
 Colour Scheme were choosen to bring that beach feeling environment and to contrast colours for people better perceive the information, colours chosen was a variety of greens, blues and greys for our site.
 
-![Palette Colours Img]
+![Palette Colours Img](documentation/color-palette.png)
 
 ## Typography
 
