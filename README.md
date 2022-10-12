@@ -38,11 +38,8 @@ Photos by:
            Jess Loiterton
            
 ## Wireframes
-Wireframes were created for mobile, tablet and desktop using Figma.
 
-Index Desktop Wireframe
-Index Tablet Wireframe
-Index Mobile Wireframe
+Wireframes were created for mobile, tablet and desktop using Figma.
 
 ![Index Desktop Wireframe](documentation/index-frames.png)
 
