@@ -115,9 +115,7 @@ This section brings a sense of community and belonging to the user as they will 
 
 This section will allow users to signup to be part of the community.
 
-The user will choose an activity of more interess to track which one has more demand.
-
-The user will be asked to submit their full name and email address.
+The user will be asked to submit their full name, email address and exercice preference.
 
 ![SIGN UP SCREENSHOOT](documentation/signup-feature1.png)
 
