@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Semi+Condensed&family=Oswald&display=swap');
 
 /* Removes all margins & Padding */
 * {
@@ -9,7 +9,7 @@
 
 /* Background color added to the body, Font to be used throughout the pages body */
 body {
-    font-family: Lato, sans-serif;
+    font-family: Encode Sans Semi Condensed, sans-serif;
     color: #343434;
     background-color: #F2F2F2;
 }
@@ -137,7 +137,7 @@ h1, h2 {
     color: #343434;
     text-align: center;
     font-size: 120%;
-    font-family: Lato, sans-serif;
+    font-family: Encode Sans Semi Condensed, sans-serif;
     text-transform: uppercase;
 
     width: 50%;
