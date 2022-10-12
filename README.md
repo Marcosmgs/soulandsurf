@@ -17,11 +17,11 @@ CSS rules to specify families
 
 font-family: 'Encode Sans Semi Condensed', sans-serif;
 
-![Font Encode]
+![Font Encode](documentation/encode-font.png)
 
 font-family: 'Oswald', sans-serif;
 
-![Font Oswald]
+![Font Oswald](documentation/oswald-font.png)
 
 @import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Semi+Condensed&family=Oswald&display=swap');
 
