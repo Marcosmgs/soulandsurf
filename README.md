@@ -2,7 +2,7 @@
 
 Soul & Surf is a website that hopes to help in those days where the waves are small, bring people together to meet up for surf-improvement exercices activitis on regular basis in Bundoran, Ireland. The site will be targeted towards surfers who are looking for a way to socialise with the local surf community and keep themselves fit for the big days. Soul & Surf will be useful for surfers to see exactly when and where they should be to join the activitys.
 
-![Reponsive Mockup Diferent Screens Sizes](documentation/ami-resposive.png)
+![Reponsive Mockup Diferent Screens Sizes](documentation/ami-resposive1.png)
 
 ## Design
 Colour Scheme were choosen to bring that beach feeling environment and to contrast colours for people better perceive the information, colours chosen was a variety of greens, blues and greys for our site.
