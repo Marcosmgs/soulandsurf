@@ -44,72 +44,93 @@ Wireframes were created for mobile, tablet and desktop using Figma.
 ![Index Desktop Wireframe](documentation/index-frames.png)
 
 ## Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
 #### Navigation Bar
 
-Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+The Navigation Bar is 100% reposive for all types of devices. It contains links to the Logo on the left side and to the navigation menu on the right side of the bar, the menu cosist of a Home page, Gallery and Sign up page, in which all this pages the navigation bar will be feature the same.
+
+This Navigation menu will help the user easily navigate through the website across all screen sizes without having to use a back button to goes back to previous pages. 
 
 ![NAVIGATION BAR SCREENSHOOT](documentation/menu-feature1.png)
 
-#### The landing Surfer page image
+#### The Surfer page image
 
-The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-This section introduces the user to Love Running with an eye catching animation to grab their attention.
+The Surfer page contain a photograph with textbox, which gives to the user the location and a hint of what is the porpouse of the page.
+
+The text box gives a small introduction and the image gives an achivement sensation to user looking for improvement also it has a nice animation to grab users attention.
+
+(The animation was inpired by Love Running project from CI)
 
 ![SURFER PAGE SCREENSHOOT](documentation/surfer-feature1.png)
 
 #### About Us Section
 
+The About Use Section will introduce the community to the user and what is the commitment of this community.
+
+This will welcome users and make them fell as they already belong to the community.
+
 ![ABOUT US SCREENSHOOT](documentation/aboutus-feature1.png)
 
-#### Reasons to Ride with Us Section
+#### Reasons Why to Ride with Us Section
 
-The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
-This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
+This section will present to the users the areas they will be improving when surfing with Soul & Surf community.
+
+The user will see what can be achive by improving this area and the impact it can have on their surfing. This should encourage the users joining the surf community.
 
 ![REASONS WHY SCREENSHOOT](documentation/reasonswhy-feature1.png)
 
 #### Meetup Times & Locations Section
 
-This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
-This section will be updated as these times change to keep the user up to date.
+This section will provide the user with the information such as activity type, time and location where the activity take place.
+
+This section will be updated weekly as it can suffer cancelations by anytime in case we forecast good waves.
 
 ![MEET UP TIMES SCREENSHOOT](documentation/meetup-feature1.png)
 
 #### The Footer
 
-The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
-The footer is valuable to the user as it encourages them to keep connected via social media
+This section has all the links to the social media sites for Soul & Surf. 
+
+The links will open to a new tab to allow easy navigation for the user.
+
+This footer will encourage user to joing Soul & Surf social medias.
+
+This footer will be featured in all pages identical.
 
 ![FOOTER SCREENSHOOT](documentation/footer-feature1.png)
 
 #### Gallery
 
-The gallery will provide the user with supporting images to see what the meet ups look like.
-This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
+This gallery is to users see the community activitys and daily moments of the surfers in Bundoran.
+
+This section brings a sense of community and belonging to the user as they will see in this pictures the community lifestyle.
+
+(This alignment style for the photos was inspired by Love Running Project from CI)
 
 ![GALLERY SCREENSHOOT](documentation/gallery-feature1.png)
 
 #### The Sign Up Page
 
-This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
+This section will allow users to signup to be part of the community.
+
+The user will choose an activity of more interess to track which one has more demand.
+
+The user will be asked to submit their full name and email address.
 
 ![SIGN UP SCREENSHOOT](documentation/signup-feature1.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+(This form style and signup buttom was inspired by Love Running Project from CI)
 
 ## Features Left to Implement
 
 - HAMBURGUER MENU
+
 - CENTER TEXT FOR MEET UP TIMES
 
 ## Testing
+
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
