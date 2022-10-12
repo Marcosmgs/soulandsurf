@@ -53,52 +53,52 @@ In this section, you should go over the different parts of your project, and des
 Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![NAVIGATION BAR SCREENSHOOT](documentation/menu-feature.png)
+![NAVIGATION BAR SCREENSHOOT](documentation/menu-feature1.png)
 
 #### The landing Surfer page image
 
 The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
 This section introduces the user to Love Running with an eye catching animation to grab their attention.
 
-![SURFER PAGE SCREENSHOOT](documentation/surfer-feature.png)
+![SURFER PAGE SCREENSHOOT](documentation/surfer-feature1.png)
 
 #### About Us Section
 
-![ABOUT US SCREENSHOOT](documentation/aboutus-feature.png)
+![ABOUT US SCREENSHOOT](documentation/aboutus-feature1.png)
 
 #### Reasons to Ride with Us Section
 
 The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
 This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
 
-![REASONS WHY SCREENSHOOT](documentation/reasonswhy-feature.png)
+![REASONS WHY SCREENSHOOT](documentation/reasonswhy-feature1.png)
 
 #### Meetup Times & Locations Section
 
 This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
 This section will be updated as these times change to keep the user up to date.
 
-![MEET UP TIMES SCREENSHOOT](documentation/meetup-feature.png)
+![MEET UP TIMES SCREENSHOOT](documentation/meetup-feature1.png)
 
 #### The Footer
 
 The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
 The footer is valuable to the user as it encourages them to keep connected via social media
 
-![FOOTER SCREENSHOOT](documentation/footer-feature.png)
+![FOOTER SCREENSHOOT](documentation/footer-feature1.png)
 
 #### Gallery
 
 The gallery will provide the user with supporting images to see what the meet ups look like.
 This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
 
-![GALLERY SCREENSHOOT](documentation/gallery-feature.png)
+![GALLERY SCREENSHOOT](documentation/gallery-feature1.png)
 
 #### The Sign Up Page
 
 This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
 
-![SIGN UP SCREENSHOOT](documentation/signup-feature.png)
+![SIGN UP SCREENSHOOT](documentation/signup-feature1.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
