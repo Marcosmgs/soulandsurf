@@ -40,8 +40,11 @@ h1, h2 {
 #menu {
     font-size: 100%;
     letter-spacing: 4px;
-    line-height: 75px;
     text-transform: uppercase;
+}
+
+#menu, #logo {
+    line-height: 75px;
 }
 
 #menu li {
