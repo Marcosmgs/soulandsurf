@@ -75,6 +75,8 @@ This section will provide the user with the information such as activity type, t
 
 This section will be updated weekly as it can suffer cancelations by anytime in case of a forecast of good waves.
 
+(This background style for the meet up section was inspired by Coders Coffeehouse Project from CI)
+
 ![MEET UP TIMES SCREENSHOOT](documentation/meetup-feature1.png)
 
 #### The Footer
@@ -158,16 +160,28 @@ The steps to deploy are as follows:
 6. The site has now been deployed, please note that this process may take a few minutes before the site goes live.
 
 ## Credits
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
 
-You can break the credits section up into Content and Media, depending on what you have included in your project.
+### Content
 
-## Content
-The text for the Home page was taken from Wikipedia Article A
-Instructions on how to implement form validation on the Sign Up page was taken from Specific YouTube Tutorial
-The icons in the footer were taken from Font Awesome
+The text content for the Reasons Why section was taken from the websites bellow:
 
-## Imagery
+        https://www.fluidlifepilates.com
+
+        https://en-gb.facebook.com/groups/1763135520624875/
+
+        http://www.fitnessforsurfers.com
+
+        https://www.thewave.com
+
+The icons in the footer were taken from Font Awesome: https://fontawesome.com/
+
+The motion animation for the Surfer Image was inspired by Love Running project from CI
+
+The background style for the meet up section was inspired by Coders Coffeehouse Project from CI
+
+Signup form style and gallery alignment style were inspired by Love Running Project from CI
+
+### Imagery
 
 All imagery used within the site has been chosen from https://www.pexels.com taken by the photographers bellow:
 
@@ -179,25 +193,4 @@ Photos by:
            
            Jess Loiterton
            
-The photos used on the home and sign up page are from This Open Source site
-The images used for the gallery page were taken from this other open source site
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
-
 ## Other General Project Advice
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
-
-One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through this article by Chris Beams on How to Write a Git Commit Message
-
-Make sure to keep the messages in the imperative mood
-When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-
-For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
-Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-
-Writing Your Best Code
-HTML & CSS Coding Best Practices
-Google HTML/CSS Style Guide
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process!
-
-
-
