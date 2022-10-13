@@ -4,6 +4,34 @@ Soul & Surf is a website that hopes to help in those days where the waves are sm
 
 ![Reponsive Mockup Diferent Screens Sizes](documentation/ami-resposive1.png)
 
+- - -
+
+## CONTENTS
+
+* [Colour Design](#design)
+* [Typography](#typography)
+* [Wireframes](#wireframes)
+* [Features](#features)
+  * [Navigation Bar](#navigation-bar)
+  * [The Surfer Page Image](#the-surfer-page-image)
+  * [About Us Section](#about-us-section)
+  * [Reasons Why to Ride with Us Section](#reasons-why-to-ride-with-us-section)
+  * [Meetup Times & Locations Section](#meetup-times-and-locations-section)
+  * [The Footer](#the-footer)
+  * [Gallery](#gallery)
+  * [The Sign Up Page](#the-sign-up-page)
+  * [Features Left to Implement](#features-left-to-implement) 
+* [Testing](#testing)
+  * [Validator Testing](#validator-testing)
+  * [Unfixed Bugs](#unfixed-bugs)
+* [Deployment](#deployment)
+* [Further Reading](#further-reading)
+* [Credits](#credits)
+  * [Content](#content)
+  * [Imagery](#imagery)
+
+- - -
+
 ## Design
 Colour Scheme were chosen to bring that beach feeling environment and to have more contrast for people better perceive the information, colours chosen was a variety of greens, blues and greys for our site.
 
@@ -69,7 +97,7 @@ The user will see what can be achieve by improving this area and the impact it c
 
 ![REASONS WHY SCREENSHOOT](documentation/reasonswhy-feature2.png)
 
-#### Meetup Times & Locations Section
+#### Meetup Times and Locations Section
 
 This section will provide the user with the information such as activity type, time, location and where the activity will take place.
 
