@@ -25,7 +25,6 @@ Soul & Surf is a website that hopes to help in those days where the waves are sm
   * [Validator Testing](#validator-testing)
   * [Unfixed Bugs](#unfixed-bugs)
 * [Deployment](#deployment)
-* [Further Reading](#further-reading)
 * [Credits](#credits)
   * [Content](#content)
   * [Imagery](#imagery)
@@ -220,5 +219,3 @@ Photos by:
            Kammeran Gonzalez-Keola
            
            Jess Loiterton
-           
-## Other General Project Advice
