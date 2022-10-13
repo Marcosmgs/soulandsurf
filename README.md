@@ -1,11 +1,11 @@
 # SOUL & SURF
 
-Soul & Surf is a website that hopes to help in those days where the waves are small, bring people together to meet up for surf-improvement exercices activitis on regular basis in Bundoran, Ireland. The site will be targeted towards surfers who are looking for a way to socialise with the local surf community and keep themselves fit for the big days. Soul & Surf will be useful for surfers to see exactly when and where they should be to join the activitys.
+Soul & Surf is a website that hopes to help in those days where the waves are small, bring people together to meet up for surf-improvement exercise activities on regular basis in Bundoran, Ireland. The site will be targeted towards surfers who are looking for a way to socialise with the local surf community and keep themselves fit for the big days. Soul & Surf will be useful for surfers to see exactly when and where they should be to join the activities.
 
 ![Reponsive Mockup Diferent Screens Sizes](documentation/ami-resposive1.png)
 
 ## Design
-Colour Scheme were choosen to bring that beach feeling environment and to contrast colours for people better perceive the information, colours chosen was a variety of greens, blues and greys for our site.
+Colour Scheme were chosen to bring that beach feeling environment and to have more contrast for people better perceive the information, colours chosen was a variety of greens, blues and greys for our site.
 
 ![Palette Colours Img](documentation/color-palette1.png)
 
@@ -37,17 +37,17 @@ Wireframes were created for mobile, tablet and desktop using Figma.
 
 #### Navigation Bar
 
-The Navigation Bar is 100% reposive for all types of devices. It contains links to the Logo on the left side and to the navigation menu on the right side of the bar, the menu cosist of a Home page, Gallery and Sign up page, in which all this pages the navigation bar will be feature the same.
+The Navigation Bar is 100% responsive for all types of devices. It contains links to the Logo on the left side and to the navigation menu on the right side of the bar, the menu consist of a Home page, Gallery and Sign up page, in which all this pages the navigation bar will be feature the same.
 
 This Navigation menu will help the user easily navigate through the website across all screen sizes without having to use a back button to goes back to previous pages. 
 
 ![NAVIGATION BAR SCREENSHOOT](documentation/menu-feature1.png)
 
-#### The Surfer page image
+#### The Surfer Page Image
 
-The Surfer page contain a photograph with textbox, which gives to the user the location and a hint of what is the porpouse of the page.
+The Surfer page contain a photograph with a text box, which signal to the user the location and a hint of what is the purpose of the page.
 
-The text box gives a small introduction and the image gives an achivement sensation to user looking for improvement also it has a nice animation to grab users attention.
+The text box gives a small introduction and the image gives an achievement sensation to user looking for improvement also it has a motion animation to grab users attention.
 
 (The animation was inpired by Love Running project from CI)
 
@@ -55,7 +55,7 @@ The text box gives a small introduction and the image gives an achivement sensat
 
 #### About Us Section
 
-The About Use Section will introduce the community to the user and what is the commitment of this community.
+The About Us Section will introduce the community to the user and what is the commitment of this community.
 
 This will welcome users and make them fell as they already belong to the community.
 
@@ -65,25 +65,25 @@ This will welcome users and make them fell as they already belong to the communi
 
 This section will present to the users the areas they will be improving when surfing with Soul & Surf community.
 
-The user will see what can be achive by improving this area and the impact it can have on their surfing. This should encourage the users joining the surf community.
+The user will see what can be achieve by improving this area and the impact it can have on their surfing. This should encourage the users joining the surf community.
 
 ![REASONS WHY SCREENSHOOT](documentation/reasonswhy-feature2.png)
 
 #### Meetup Times & Locations Section
 
-This section will provide the user with the information such as activity type, time and location where the activity take place.
+This section will provide the user with the information such as activity type, time, location and where the activity will take place.
 
-This section will be updated weekly as it can suffer cancelations by anytime in case we forecast good waves.
+This section will be updated weekly as it can suffer cancelations by anytime in case of a forecast of good waves.
 
 ![MEET UP TIMES SCREENSHOOT](documentation/meetup-feature1.png)
 
 #### The Footer
 
-This section has all the links to the social media sites for Soul & Surf. 
+This section has all the links to the social media sites for Soul & Surf.
 
 The links will open to a new tab to allow easy navigation for the user.
 
-This footer will encourage user to joing Soul & Surf social medias.
+This footer will encourage user to join Soul & Surf social medias.
 
 This footer will be featured in all pages identical.
 
@@ -91,7 +91,7 @@ This footer will be featured in all pages identical.
 
 #### Gallery
 
-This gallery is to users see the community activitys and daily moments of the surfers in Bundoran.
+This gallery is to users see the community activities and daily moments of the surfers in Bundoran.
 
 This section brings a sense of community and belonging to the user as they will see in this pictures the community lifestyle.
 
@@ -103,28 +103,26 @@ This section brings a sense of community and belonging to the user as they will 
 
 This section will allow users to signup to be part of the community.
 
-The user will be asked to submit their full name, email address and exercice preference.
-
-![SIGN UP SCREENSHOOT](documentation/signup-feature1.png)
+The user will be asked to submit their full name, email address and exercise preference.
 
 (This form style and signup buttom was inspired by Love Running Project from CI)
+
+![SIGN UP SCREENSHOOT](documentation/signup-feature1.png)
 
 ## Features Left to Implement
 
 - HAMBURGUER MENU
 
-- CENTER TEXT FOR MEET UP TIMES
-
 ## Testing
 
-This website has been put through testing since the begining and at every stage of the building, I made use of W3C and Jigsaw validator.
+This website has been put through testing since the beginning and at every stage of the building, I made use of W3C and Jigsaw validator.
 In additional, google Chrome developer tool was used for troubleshooting.
 
 We used google Chrome developer tool & Firefox inspector tool to make sure pages are responsive to different screen sizes and devices.
 
 All the pages were tested using Lighthouse within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
 
-The lighthouse scores are very good, with some things that could be improved. A future implementation would be to convert all images to the webp format and a hamburguer menu for mobile devices. 
+The lighthouse scores are very good, with some things that could be improved. A future implementation would be to convert all images to the webp format and a hamburger menu for mobile devices. 
 
 ### Validator Testing
 
@@ -144,7 +142,7 @@ Lighthouse Scores
 
 ### Unfixed Bugs
 
-No bugs were found, but reduce the payload size of the image would improve considerable the page as large network payloads cost users real money and are highly correlated with long load times.
+No bugs were found, but a reduction of the payload size of the image would improve considerable the page as large network payloads cost users real money and are highly correlated with long load times.
 
 ## Deployment
 
