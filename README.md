@@ -24,19 +24,7 @@ font-family: 'Oswald', sans-serif;
 ![Font Oswald](documentation/oswald-font1.png)
 
 @import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Semi+Condensed&family=Oswald&display=swap');
-
-## Imagery
-
-All imagery used within the site has been chosen from https://www.pexels.com taken by the photographers bellow:
-
-Photos by: 
-
-           Nick Wehrli
-           
-           Kammeran Gonzalez-Keola
-           
-           Jess Loiterton
-           
+        
 ## Wireframes
 
 Wireframes were created for mobile, tablet and desktop using Figma.
@@ -180,7 +168,19 @@ You can break the credits section up into Content and Media, depending on what y
 The text for the Home page was taken from Wikipedia Article A
 Instructions on how to implement form validation on the Sign Up page was taken from Specific YouTube Tutorial
 The icons in the footer were taken from Font Awesome
-## Media
+
+## Imagery
+
+All imagery used within the site has been chosen from https://www.pexels.com taken by the photographers bellow:
+
+Photos by: 
+
+           Nick Wehrli
+           
+           Kammeran Gonzalez-Keola
+           
+           Jess Loiterton
+           
 The photos used on the home and sign up page are from This Open Source site
 The images used for the gallery page were taken from this other open source site
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
