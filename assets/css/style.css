@@ -348,11 +348,11 @@ footer {
     #menu {
         clear: left;
         float: left;
-        margin-left: 20px;
+        margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
-        font-size: 90%;
     }
+
     #about-us {
         height: 100%;
         width: 100%;
@@ -377,8 +377,8 @@ footer {
     }
 }
 
-/* For medium screen sizes from 360px wide and down */
-@media screen and (max-width: 360px) {
+/* For medium screen sizes from 370px wide and down */
+@media screen and (max-width: 370px) {
     #menu {
         font-size: 80%;
         margin-left: 30px;
