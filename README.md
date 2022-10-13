@@ -79,7 +79,7 @@ This section will present to the users the areas they will be improving when sur
 
 The user will see what can be achive by improving this area and the impact it can have on their surfing. This should encourage the users joining the surf community.
 
-![REASONS WHY SCREENSHOOT](documentation/reasonswhy-feature1.png)
+![REASONS WHY SCREENSHOOT](documentation/reasonswhy-feature2.png)
 
 #### Meetup Times & Locations Section
 
