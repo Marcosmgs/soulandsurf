@@ -76,7 +76,7 @@ The Surfer page contain a photograph with a text box, which signal to the user t
 
 The text box gives a small introduction and the image gives an achievement sensation to user looking for improvement also it has a motion animation to grab users attention.
 
-(The animation was inpired by Love Running project from CI)
+(The animation was taken from Love Running project from CI)
 
 ![SURFER PAGE SCREENSHOOT](documentation/surfer-feature1.png)
 
@@ -102,7 +102,7 @@ This section will provide the user with the information such as activity type, t
 
 This section will be updated weekly as it can suffer cancelations by anytime in case of a forecast of good waves.
 
-(This background style for the meet up section was inspired by Coders Coffeehouse Project from CI)
+(This background style for the meet up section was taken from Coders Coffeehouse Project from CI)
 
 ![MEET UP TIMES SCREENSHOOT](documentation/meetup-feature1.png)
 
@@ -124,7 +124,7 @@ This gallery is to users see the community activities and daily moments of the s
 
 This section brings a sense of community and belonging to the user as they will see in this pictures the community lifestyle.
 
-(This alignment style for the photos was inspired by Love Running Project from CI)
+(This alignment style for the photos was taken from Love Running Project from CI)
 
 ![GALLERY SCREENSHOOT](documentation/gallery-feature1.png)
 
@@ -134,7 +134,7 @@ This section will allow users to signup to be part of the community.
 
 The user will be asked to submit their full name, email address and exercise preference.
 
-(This form style and signup buttom was inspired by Love Running Project from CI)
+(This form style and signup buttom was taken from Love Running Project from CI)
 
 ![SIGN UP SCREENSHOOT](documentation/signup-feature1.png)
 
