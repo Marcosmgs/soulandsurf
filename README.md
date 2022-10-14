@@ -202,11 +202,11 @@ The text content for the Reasons Why section was taken from the websites bellow:
 
 The icons in the footer were taken from Font Awesome: https://fontawesome.com/
 
-The motion animation for the Surfer Image was inspired by Love Running project from CI
+The motion animation for the Surfer Image was taken from the Love Running project(Code Institute)
 
-The background style for the meet up section was inspired by Coders Coffeehouse Project from CI
+The background style for the meet up section was taken from the Coders Coffeehouse Project(Code Institute)
 
-Signup form style and gallery alignment style were inspired by Love Running Project from CI
+Signup form style and gallery alignment style were taken from the Love Running Project(Code Institute)
 
 ### Imagery
 
