@@ -209,6 +209,8 @@ The motion animation for the Surfer Image was taken from the Love Running projec
 
 The background style for the meet up section was taken from the Coders Coffeehouse Project(Code Institute)
 
+The navigation bar code was taken from the Coders Coffeehouse Project(Code Institute)
+
 Signup form style and gallery alignment style were taken from the Love Running Project(Code Institute)
 
 ### Imagery
