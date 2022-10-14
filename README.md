@@ -180,7 +180,7 @@ The site is deployed using GitHub Pages - [Soul & Surf](https://marcosmgs.github
 The steps to deploy are as follows: 
 
 1. Login (or signup) to Github.
-2. Go to the repository for this project, [marcosmgs/Soul & Surf](https://github.com/kera-cudmore/TheQuizArms).
+2. Go to the repository for this project, [marcosmgs/Soul & Surf](https://github.com/Marcosmgs/soulandsurf).
 3. Click the settings button.
 4. Select pages in the left hand navigation menu.
 5. From the source dropdown select main branch and press save.
