@@ -68,6 +68,9 @@ The Navigation Bar is 100% responsive for all types of devices. It contains link
 
 This Navigation menu will help the user easily navigate through the website across all screen sizes without having to use a back button to goes back to previous pages. 
 
+
+(The navigation code was taken from Love Running project from CI)
+
 ![NAVIGATION BAR SCREENSHOOT](documentation/menu-feature1.png)
 
 #### The Surfer Page Image
@@ -76,7 +79,7 @@ The Surfer page contain a photograph with a text box, which signal to the user t
 
 The text box gives a small introduction and the image gives an achievement sensation to user looking for improvement also it has a motion animation to grab users attention.
 
-(The animation was taken from Love Running project from CI)
+(The motion animation was taken from Love Running project from CI)
 
 ![SURFER PAGE SCREENSHOOT](documentation/surfer-feature1.png)
 
